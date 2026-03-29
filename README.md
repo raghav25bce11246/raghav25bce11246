@@ -1,5 +1,12 @@
-## Hi there 👋
+## profile
 
+Name: Raghav Mishra
+
+Branch: B.Tech in computer science
+
+year: 1st
+
+I want to pursue the field of Machine Learning and generative AI as i have developed keen interest in them after learning about their vast and varied applications in different aspects of our life.
 <!--
 **raghav25bce11246/raghav25bce11246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
